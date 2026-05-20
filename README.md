@@ -1,6 +1,6 @@
 # Ravi Palavai
 
-**Senior Full Stack Engineer (Java + React)**
+**Senior Full Stack Engineer**
 
 6+ years shipping complete products end to end: secure, high-throughput Spring Boot microservices on the backend and clean, responsive React interfaces on the front. I own features from API and data design all the way through to the UI that ships them. Currently at Jack Henry & Associates. Previously at Truist Bank, Delphi Software House, and HDFC Life Insurance.
 
